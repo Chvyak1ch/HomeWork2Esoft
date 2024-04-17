@@ -1,0 +1,25 @@
+.Card {
+    border-radius: 20px;
+    border: 2px solid black;
+    background: #5df5ff;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    
+}
+img {
+    /* width: 250px;
+    height: 250px; */
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10%;
+    border: none;
+}
